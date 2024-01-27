@@ -1,0 +1,21 @@
+{
+  "name": "littledb",
+  "version": "1.0.0",
+  "description": "lowdb sample for 1.125",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "build": "my_script_to_build"
+  },
+  "author": "abel@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "build": "^0.1.4",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "lowdb": "^7.0.1",
+    "mongodb": "^6.3.0"
+  },
+  "devDependencies": {}
+}
